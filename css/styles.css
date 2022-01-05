@@ -1,0 +1,200 @@
+﻿body
+{
+		text-align:center;
+		
+		
+}
+
+.W70
+{
+	width:70%;
+}
+
+.Para
+{
+	
+	padding-bottom:20px;
+}
+
+<!-------------------------------HEadingsss------------------------------>
+
+#Second
+{
+	padding-bottom:30px;
+}
+
+.SuperBig
+{   margin-top:30px;
+	font-size: 6rem;
+}
+
+
+.topHeading
+{	text-align:left;
+	padding:40px 0 20px;
+	margin:auto;
+}
+
+
+.SectionHeading
+{
+	font-family: 'Raleway', sans-serif;
+	color: white;
+
+}
+
+.SecondHeading
+{
+		position:absolute;
+		
+}
+
+.SecLeft
+{
+	text-align:left;
+	display: inline-block;
+	padding:20px 0 0;
+	font-size:2.5rem;
+}
+
+.SecRight
+{
+	text-align: right;
+	display: inline-block;
+	padding:30px 0 0 145px;
+	margin:auto;
+	
+}
+
+.ExteriorTitle
+{ padding: 30px 0 30px;
+ 
+}
+
+.TopBottomPad
+{
+	margin:30px auto;
+}
+
+.card-header{
+background-color:black;	
+}
+
+.cardHeading
+{
+	color:white;
+}
+
+<!------------image------>
+
+
+.LogoImg
+{
+	padding-left:10px;
+	
+}
+
+
+.Mbuttons
+{
+	text-align:center;
+}
+
+.ExteriorSection
+{	text-align:center;
+	margin:auto;
+}
+
+.ExtImages
+{
+	width:50%;
+}
+.TopBtn {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #FFFFFF;
+   width: 250px;
+   font-size: 20px;
+   font-weight: 100; 
+   background-color: #2C2F32;
+   border: solid #000000 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin:50px 30px 50px;
+}
+
+.TopBtn:hover {
+   background: #383C44;
+   border: solid #000000 0;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
+
+
+.opBtn {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #FFFFFF;
+   width: 220px;
+   font-size: 20px;
+   font-weight: 100; 
+   background-color: #183552;
+   border: solid #000000 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin:50px 1px 50px;
+}
+
+.opBtn:hover {
+   background: #383C44;
+   border: solid #000000 0;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
+   
+   
+.SecondBtns
+{
+	margin:auto;
+	
+}
+
+
+#pricing {
+  text-align:center;
+  margin:auto;
+  
+}
+.card{
+	text-align: left;
+	border:0;
+}
+
+.cardHeading{
+	text-align:center;
+}
+
+.cardsss{
+	text-align:center;
+  margin:auto;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.card-footer{
+	background:#D4AC2B;
+	text-align:left;
+}
+
