@@ -1,9 +1,13 @@
-﻿body
+body
 {
 		text-align:center;
 		
 		
 }
+ img{
+	 width:100%;
+	 
+ }
 
 .W70
 {
@@ -47,6 +51,7 @@
 
 }
 
+
 .SecondHeading
 {
 		position:absolute;
@@ -55,18 +60,20 @@
 
 .SecLeft
 {
-	text-align:left;
-	display: inline-block;
-	padding:20px 0 0;
-	font-size:2.5rem;
+	text-align: left;
+	margin-top:20px;
+	padding:10px 0 0 10px;
+	font-size:1.5rem;
+	line-height:1.2rem
 }
 
 .SecRight
 {
 	text-align: right;
-	display: inline-block;
-	padding:30px 0 0 145px;
-	margin:auto;
+	margin-top:20px;
+	padding:10px 0 0 10%;
+	font-size:1.5rem;
+	line-height:1.2rem
 	
 }
 
